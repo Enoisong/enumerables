@@ -1,10 +1,8 @@
-# enumerables <a name="readme-top"></a>
-
- <div align="center">
-   <h3><b>enumerables</b></h3>
+  <div align="center">
+   <h1><b>enumerables</b></h1>
   </div>
 
-  <h1>Ruby Introductory Project</h1>
+  <h2>Ruby Introductory Project</h2>
 
  # 📗 Table of Contents
 - [📖 About the Project](#about-project)
