@@ -1,7 +1,7 @@
 # enumerables <a name="readme-top"></a>
 
  <div align="center">
-   <h3><b>morse_code_reader</b></h3>
+   <h3><b>enumerables</b></h3>
   </div>
 
   <h1>Ruby Introductory Project</h1>
