@@ -1,8 +1,8 @@
-  <div align="center">
-   <h1><b>enumerables</b></h1>
-  </div>
+<div align="center">
+  <h1><b>enumerables</b></h1>
+</div>
 
-  <h2>Ruby Introductory Project</h2>
+<h2>Ruby Introductory Project</h2>
 
  # 📗 Table of Contents
 - [📖 About the Project](#about-project)
@@ -25,45 +25,31 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖 morse_code_reader <a name="about-project"></a> 
-
-During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and  see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
+# 📖 [enumerables] <a name="about-project"></a> 
  
- ### How to build the "morse_code_reader"
+ ### How to build the "enumerables"
 
  - Use Ruby
  - Use Ruby best practices
  - Implement using Ruby methods
 
-## 🛠 Walk through <a name="walk-through"></a>
-<ul>
-  <li><a href="https://github.com/microverseinc/curriculum-ruby/blob/main/simple-ruby/morse_code.md">See the project Requirement</a></li>
-
-## 🛠 Built With <a name="built-with"></a>
+ ## 🛠 Built With <a name="built-with"></a>
 
  > Install Ruby
 
- > Implement Gitflow based on <a href="https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/gitflow.md">Gitflow</a>
-
- > Create a client side for the morse_code_reader
+ > Implement Gitflow based on <a href="https://github.com/microverseinc/curriculum-transversal-skills/blob/main/git-github/articles/gitflow.md">Gitflow</a> 
 
  ### Tech Stack <a name="tech-stack"></a>
+ <details>
+ <summary>Language</summary>
+   <ul>
+   <li><a href="#">ruby</a></li>
+   </ul>
+  </details>
 
  ### Key Features <a name="key-features"></a>
 
- <details>
-   <summary>Client side / Front-end</summary>
-   <ul>
-   <li><a href="https//www.w3.org/Style/CSS/">CSS</a></li>
-   </ul>
-   </details>
-  
-  <details>
-   <summary>Server side / Back-end</summary>
-   <ul>
-   <li><a href="https//render.com/">Ruby</a></li>
-   </ul>
-   </details>
+  - **[Enumerables ruby methods]**
   
   <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,13 +59,18 @@ During your vacation at the seaside, time after time you find old bottles with p
 
 To get a local copy up and running, follow these steps.
 
+
+### Prerequisites
+
+Install ruby
+
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/Enoisong/morse_code_reader.git
+  git clone https://github.com/Enoisong/enumerables.git
 ```
 
 ### Install
@@ -117,8 +108,9 @@ To run the project execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a> 
  
-- **[Animals escape attempt]**
-- **[directory for animals clinic]**
+- **Implement #max method**
+- **Implement #min method**
+- **Implement #sort method**
 
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
