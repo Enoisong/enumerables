@@ -6,7 +6,7 @@ module MyEnumerable
     end
     flag
   end
-  
+
   def any?
     flag = false
     each do |n|
@@ -14,7 +14,7 @@ module MyEnumerable
     end
     flag
   end
-  
+
   def filter
     arr = []
     each do |n|
