@@ -108,8 +108,9 @@ To run the project execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a> 
  
-- **[Animals escape attempt]**
-- **[directory for animals clinic]**
+- **Implement #max method**
+- **Implement #min method**
+- **Implement #sort method**
 
  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
